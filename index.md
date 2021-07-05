@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Ender 5/Ender 5 Pro/Ender 5 Plus unofficial community documentation"
+description: "Ender-5/Ender-5 Pro/Ender-5 Plus unofficial community documentation"
 permalink: /
 ---
 

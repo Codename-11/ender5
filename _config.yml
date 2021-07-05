@@ -13,15 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ender 5
-email: echo@jeremy.sh
+title: Ender-5
+email: info@axiom-labs.dev
 description:
   An Ender 5 unofficial community documentation.
   This website is not affiliated with Creality.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://ender5.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: capitainemousse
-github_username:  CapMousse
+url: "https://codename-11.github.io/ender5" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  Codename_11
 footer_content: "This website is distributed under the <a href=\"https://choosealicense.com/licenses/gpl-3.0/\">GNU GPL 3.0</a> license"
 
 # Build settings
