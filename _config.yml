@@ -19,7 +19,7 @@ description:
   An Ender 5 unofficial community documentation.
   This website is not affiliated with Creality.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://codename-11.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://codename-11.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Codename_11
 footer_content: "This website is distributed under the <a href=\"https://choosealicense.com/licenses/gpl-3.0/\">GNU GPL 3.0</a> license"
 
